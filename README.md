@@ -1,6 +1,5 @@
 # Weather Forecast App
 
-![Weather Forecast](https://example.com/weather-forecast-image.png) <!-- Replace with your own image URL -->
 
 ## Description
 
